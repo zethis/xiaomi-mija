@@ -22,4 +22,4 @@ name= LYWSD03MMC
 Reading Mijia...
 Hardware: {Firmware Version:1.0.0_0106 / Hardware Revision:B1.4 / BT Name:LYWSD03MMC / Battery Level:99}
 Sensors:{Temperature:29.79 / Humidity:57 / Voltage:3.014}
-```bash
+```

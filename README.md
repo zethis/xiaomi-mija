@@ -3,6 +3,13 @@ get info from this little beauty: https://bit.ly/3h852qF
 
 # Please install bluez package before
 https://packages.ubuntu.com/focal/bluez
+```bash
+sudo apt-get install bluez
+```
+# Get the mac address of mija:
+```bash
+sudo hcitool lescan | grep "LYWSD03MMC" 
+```
 
 # How to use
 ./xiaomi_temp.sh $(room_name) $(mija_mac_addr)
